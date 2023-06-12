@@ -76,6 +76,13 @@ input{
     margin-right:20px;
 }
 
+
+input::placeholder{
+    color:#fff;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+
 button{
     max-width: 150px;
     border: none;
